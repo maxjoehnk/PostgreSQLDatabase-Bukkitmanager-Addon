@@ -1,0 +1,9 @@
+name: PostgreSQLDatabaseAddon
+main: org.efreak.bukkitmanager.addon.postgresql.PostgreSQLSupport
+version: 1.0
+description: >
+             This is an Addon which adds PostgreSQL Database Support
+website: http://dev.bukkit.org/server-mods/bukkitmanager
+author: e-freak
+prefix: BukkitmanagerPostgreSQLDatabase
+depend: [Bukkitmanager]
